@@ -1,4 +1,4 @@
-# Janma Bhoomi Developers — Modern Nature Luxury
+# Okaocean Developers — Modern Nature Luxury
 
 Responsive, animated static React + Tailwind landing website built with Vite, Framer Motion and Lucide icons.
 
@@ -24,7 +24,7 @@ Deploy the generated `dist/` directory to Vercel, Netlify or another static host
 
 ## Asset directory
 
-`public/assets/` contains the original supplied Janma Bhoomi logo image, Oak Ocean logo image, Whispering Woods promotional artwork and two supplied MP4 clips. The videos are low-resolution promotional media and may contain embedded prices/ROI claims inconsistent with the poster. Replace with clean HD originals for best results. No stock images were introduced.
+`public/assets/` contains the original supplied Okaocean logo image, Oak Ocean logo image, Whispering Woods promotional artwork and two supplied MP4 clips. The videos are low-resolution promotional media and may contain embedded prices/ROI claims inconsistent with the poster. Replace with clean HD originals for best results. No stock images were introduced.
 
 ## Project data & publication checks
 
